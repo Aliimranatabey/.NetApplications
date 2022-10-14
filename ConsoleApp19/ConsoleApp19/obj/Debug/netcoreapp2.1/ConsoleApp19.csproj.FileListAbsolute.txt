@@ -1,0 +1,10 @@
+C:\Users\Monster\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp2.1\ConsoleApp19.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp2.1\ConsoleApp19.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp2.1\ConsoleApp19.AssemblyInfo.cs
+C:\Users\Monster\source\repos\ConsoleApp19\ConsoleApp19\bin\Debug\netcoreapp2.1\ConsoleApp19.deps.json
+C:\Users\Monster\source\repos\ConsoleApp19\ConsoleApp19\bin\Debug\netcoreapp2.1\ConsoleApp19.runtimeconfig.json
+C:\Users\Monster\source\repos\ConsoleApp19\ConsoleApp19\bin\Debug\netcoreapp2.1\ConsoleApp19.runtimeconfig.dev.json
+C:\Users\Monster\source\repos\ConsoleApp19\ConsoleApp19\bin\Debug\netcoreapp2.1\ConsoleApp19.dll
+C:\Users\Monster\source\repos\ConsoleApp19\ConsoleApp19\bin\Debug\netcoreapp2.1\ConsoleApp19.pdb
+C:\Users\Monster\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp2.1\ConsoleApp19.dll
+C:\Users\Monster\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp2.1\ConsoleApp19.pdb

@@ -1,0 +1,11 @@
+C:\Users\Monster\source\repos\UDEMY C#\FormlarArasıGecis\FormlarArasıGecis\bin\Debug\FormlarArasıGecis.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\FormlarArasıGecis\FormlarArasıGecis\bin\Debug\FormlarArasıGecis.exe
+C:\Users\Monster\source\repos\UDEMY C#\FormlarArasıGecis\FormlarArasıGecis\bin\Debug\FormlarArasıGecis.pdb
+C:\Users\Monster\source\repos\UDEMY C#\FormlarArasıGecis\FormlarArasıGecis\obj\Debug\FormlarArasıGecis.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\FormlarArasıGecis\FormlarArasıGecis\obj\Debug\FormlarArasıGecis.Form2.resources
+C:\Users\Monster\source\repos\UDEMY C#\FormlarArasıGecis\FormlarArasıGecis\obj\Debug\FormlarArasıGecis.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\FormlarArasıGecis\FormlarArasıGecis\obj\Debug\FormlarArasıGecis.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\FormlarArasıGecis\FormlarArasıGecis\obj\Debug\FormlarArasıGecis.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\FormlarArasıGecis\FormlarArasıGecis\obj\Debug\FormlarArasıGecis.exe
+C:\Users\Monster\source\repos\UDEMY C#\FormlarArasıGecis\FormlarArasıGecis\obj\Debug\FormlarArasıGecis.pdb
+C:\Users\Monster\source\repos\UDEMY C#\FormlarArasıGecis\FormlarArasıGecis\obj\Debug\FormlarArasıGecis.csprojAssemblyReference.cache

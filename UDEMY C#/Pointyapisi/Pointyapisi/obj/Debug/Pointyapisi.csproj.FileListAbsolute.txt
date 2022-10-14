@@ -1,0 +1,9 @@
+C:\Users\Monster\source\repos\UDEMY C#\Pointyapisi\Pointyapisi\bin\Debug\Pointyapisi.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\Pointyapisi\Pointyapisi\bin\Debug\Pointyapisi.exe
+C:\Users\Monster\source\repos\UDEMY C#\Pointyapisi\Pointyapisi\bin\Debug\Pointyapisi.pdb
+C:\Users\Monster\source\repos\UDEMY C#\Pointyapisi\Pointyapisi\obj\Debug\Pointyapisi.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\Pointyapisi\Pointyapisi\obj\Debug\Pointyapisi.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\Pointyapisi\Pointyapisi\obj\Debug\Pointyapisi.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\Pointyapisi\Pointyapisi\obj\Debug\Pointyapisi.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\Pointyapisi\Pointyapisi\obj\Debug\Pointyapisi.exe
+C:\Users\Monster\source\repos\UDEMY C#\Pointyapisi\Pointyapisi\obj\Debug\Pointyapisi.pdb

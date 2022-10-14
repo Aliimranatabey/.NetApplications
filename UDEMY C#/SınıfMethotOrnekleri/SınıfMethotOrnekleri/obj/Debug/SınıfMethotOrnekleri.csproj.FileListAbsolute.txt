@@ -1,0 +1,7 @@
+C:\Users\Monster\source\repos\UDEMY C#\SınıfMethotOrnekleri\SınıfMethotOrnekleri\bin\Debug\SınıfMethotOrnekleri.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\SınıfMethotOrnekleri\SınıfMethotOrnekleri\bin\Debug\SınıfMethotOrnekleri.exe
+C:\Users\Monster\source\repos\UDEMY C#\SınıfMethotOrnekleri\SınıfMethotOrnekleri\bin\Debug\SınıfMethotOrnekleri.pdb
+C:\Users\Monster\source\repos\UDEMY C#\SınıfMethotOrnekleri\SınıfMethotOrnekleri\obj\Debug\SınıfMethotOrnekleri.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\UDEMY C#\SınıfMethotOrnekleri\SınıfMethotOrnekleri\obj\Debug\SınıfMethotOrnekleri.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\SınıfMethotOrnekleri\SınıfMethotOrnekleri\obj\Debug\SınıfMethotOrnekleri.exe
+C:\Users\Monster\source\repos\UDEMY C#\SınıfMethotOrnekleri\SınıfMethotOrnekleri\obj\Debug\SınıfMethotOrnekleri.pdb

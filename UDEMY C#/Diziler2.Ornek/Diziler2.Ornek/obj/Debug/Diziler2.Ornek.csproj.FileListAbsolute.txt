@@ -1,0 +1,9 @@
+C:\Users\Monster\source\repos\UDEMY C#\Diziler2.Ornek\Diziler2.Ornek\bin\Debug\Diziler2.Ornek.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\Diziler2.Ornek\Diziler2.Ornek\bin\Debug\Diziler2.Ornek.exe
+C:\Users\Monster\source\repos\UDEMY C#\Diziler2.Ornek\Diziler2.Ornek\bin\Debug\Diziler2.Ornek.pdb
+C:\Users\Monster\source\repos\UDEMY C#\Diziler2.Ornek\Diziler2.Ornek\obj\Debug\Diziler2.Ornek.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\Diziler2.Ornek\Diziler2.Ornek\obj\Debug\Diziler2.Ornek.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\Diziler2.Ornek\Diziler2.Ornek\obj\Debug\Diziler2.Ornek.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\Diziler2.Ornek\Diziler2.Ornek\obj\Debug\Diziler2.Ornek.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\Diziler2.Ornek\Diziler2.Ornek\obj\Debug\Diziler2.Ornek.exe
+C:\Users\Monster\source\repos\UDEMY C#\Diziler2.Ornek\Diziler2.Ornek\obj\Debug\Diziler2.Ornek.pdb

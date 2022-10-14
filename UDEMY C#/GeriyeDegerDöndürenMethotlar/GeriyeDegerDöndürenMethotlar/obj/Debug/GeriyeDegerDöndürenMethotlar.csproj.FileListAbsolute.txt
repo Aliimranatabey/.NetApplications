@@ -1,0 +1,9 @@
+C:\Users\Monster\source\repos\UDEMY C#\GeriyeDegerDöndürenMethotlar\GeriyeDegerDöndürenMethotlar\bin\Debug\GeriyeDegerDöndürenMethotlar.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\GeriyeDegerDöndürenMethotlar\GeriyeDegerDöndürenMethotlar\bin\Debug\GeriyeDegerDöndürenMethotlar.exe
+C:\Users\Monster\source\repos\UDEMY C#\GeriyeDegerDöndürenMethotlar\GeriyeDegerDöndürenMethotlar\bin\Debug\GeriyeDegerDöndürenMethotlar.pdb
+C:\Users\Monster\source\repos\UDEMY C#\GeriyeDegerDöndürenMethotlar\GeriyeDegerDöndürenMethotlar\obj\Debug\GeriyeDegerDöndürenMethotlar.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\GeriyeDegerDöndürenMethotlar\GeriyeDegerDöndürenMethotlar\obj\Debug\GeriyeDegerDöndürenMethotlar.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\GeriyeDegerDöndürenMethotlar\GeriyeDegerDöndürenMethotlar\obj\Debug\GeriyeDegerDöndürenMethotlar.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\GeriyeDegerDöndürenMethotlar\GeriyeDegerDöndürenMethotlar\obj\Debug\GeriyeDegerDöndürenMethotlar.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\GeriyeDegerDöndürenMethotlar\GeriyeDegerDöndürenMethotlar\obj\Debug\GeriyeDegerDöndürenMethotlar.exe
+C:\Users\Monster\source\repos\UDEMY C#\GeriyeDegerDöndürenMethotlar\GeriyeDegerDöndürenMethotlar\obj\Debug\GeriyeDegerDöndürenMethotlar.pdb

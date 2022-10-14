@@ -1,0 +1,10 @@
+C:\Users\Monster\source\repos\UDEMY C#\Pasta_Pısırme_Projesı\Pasta_Pısırme_Projesı\bin\Debug\Pasta_Pısırme_Projesı.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\Pasta_Pısırme_Projesı\Pasta_Pısırme_Projesı\bin\Debug\Pasta_Pısırme_Projesı.exe
+C:\Users\Monster\source\repos\UDEMY C#\Pasta_Pısırme_Projesı\Pasta_Pısırme_Projesı\bin\Debug\Pasta_Pısırme_Projesı.pdb
+C:\Users\Monster\source\repos\UDEMY C#\Pasta_Pısırme_Projesı\Pasta_Pısırme_Projesı\obj\Debug\Pasta_Pısırme_Projesı.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\UDEMY C#\Pasta_Pısırme_Projesı\Pasta_Pısırme_Projesı\obj\Debug\Pasta_Pısırme_Projesı.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\Pasta_Pısırme_Projesı\Pasta_Pısırme_Projesı\obj\Debug\Pasta_Pısırme_Projesı.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\Pasta_Pısırme_Projesı\Pasta_Pısırme_Projesı\obj\Debug\Pasta_Pısırme_Projesı.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\Pasta_Pısırme_Projesı\Pasta_Pısırme_Projesı\obj\Debug\Pasta_Pısırme_Projesı.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\Pasta_Pısırme_Projesı\Pasta_Pısırme_Projesı\obj\Debug\Pasta_Pısırme_Projesı.exe
+C:\Users\Monster\source\repos\UDEMY C#\Pasta_Pısırme_Projesı\Pasta_Pısırme_Projesı\obj\Debug\Pasta_Pısırme_Projesı.pdb

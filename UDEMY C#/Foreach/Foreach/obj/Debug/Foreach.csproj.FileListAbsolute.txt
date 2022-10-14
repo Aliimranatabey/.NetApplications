@@ -1,0 +1,10 @@
+C:\Users\Monster\source\repos\UDEMY C#\Foreach\Foreach\bin\Debug\Foreach.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\Foreach\Foreach\bin\Debug\Foreach.exe
+C:\Users\Monster\source\repos\UDEMY C#\Foreach\Foreach\bin\Debug\Foreach.pdb
+C:\Users\Monster\source\repos\UDEMY C#\Foreach\Foreach\obj\Debug\Foreach.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\UDEMY C#\Foreach\Foreach\obj\Debug\Foreach.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\Foreach\Foreach\obj\Debug\Foreach.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\Foreach\Foreach\obj\Debug\Foreach.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\Foreach\Foreach\obj\Debug\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\Foreach\Foreach\obj\Debug\Foreach.exe
+C:\Users\Monster\source\repos\UDEMY C#\Foreach\Foreach\obj\Debug\Foreach.pdb

@@ -1,0 +1,10 @@
+C:\Users\Monster\source\repos\UDEMY C#\Timer_Ornek_proje\Timer_Ornek_proje\bin\Debug\Timer_Ornek_proje.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\Timer_Ornek_proje\Timer_Ornek_proje\bin\Debug\Timer_Ornek_proje.exe
+C:\Users\Monster\source\repos\UDEMY C#\Timer_Ornek_proje\Timer_Ornek_proje\bin\Debug\Timer_Ornek_proje.pdb
+C:\Users\Monster\source\repos\UDEMY C#\Timer_Ornek_proje\Timer_Ornek_proje\obj\Debug\Timer_Ornek_proje.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\UDEMY C#\Timer_Ornek_proje\Timer_Ornek_proje\obj\Debug\Timer_Ornek_proje.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\Timer_Ornek_proje\Timer_Ornek_proje\obj\Debug\Timer_Ornek_proje.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\Timer_Ornek_proje\Timer_Ornek_proje\obj\Debug\Timer_Ornek_proje.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\Timer_Ornek_proje\Timer_Ornek_proje\obj\Debug\Timer_Ornek_proje.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\Timer_Ornek_proje\Timer_Ornek_proje\obj\Debug\Timer_Ornek_proje.exe
+C:\Users\Monster\source\repos\UDEMY C#\Timer_Ornek_proje\Timer_Ornek_proje\obj\Debug\Timer_Ornek_proje.pdb

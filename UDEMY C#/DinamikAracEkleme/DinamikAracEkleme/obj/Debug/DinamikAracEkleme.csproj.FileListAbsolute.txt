@@ -1,0 +1,10 @@
+C:\Users\Monster\source\repos\UDEMY C#\DinamikAracEkleme\DinamikAracEkleme\bin\Debug\DinamikAracEkleme.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\DinamikAracEkleme\DinamikAracEkleme\bin\Debug\DinamikAracEkleme.exe
+C:\Users\Monster\source\repos\UDEMY C#\DinamikAracEkleme\DinamikAracEkleme\bin\Debug\DinamikAracEkleme.pdb
+C:\Users\Monster\source\repos\UDEMY C#\DinamikAracEkleme\DinamikAracEkleme\obj\Debug\DinamikAracEkleme.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\UDEMY C#\DinamikAracEkleme\DinamikAracEkleme\obj\Debug\DinamikAracEkleme.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\DinamikAracEkleme\DinamikAracEkleme\obj\Debug\DinamikAracEkleme.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\DinamikAracEkleme\DinamikAracEkleme\obj\Debug\DinamikAracEkleme.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\DinamikAracEkleme\DinamikAracEkleme\obj\Debug\DinamikAracEkleme.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\DinamikAracEkleme\DinamikAracEkleme\obj\Debug\DinamikAracEkleme.exe
+C:\Users\Monster\source\repos\UDEMY C#\DinamikAracEkleme\DinamikAracEkleme\obj\Debug\DinamikAracEkleme.pdb

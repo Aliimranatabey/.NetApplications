@@ -1,0 +1,10 @@
+C:\Users\Monster\source\repos\UDEMY C#\Karat_Yapilari\Karat_Yapilari\bin\Debug\Karat_Yapilari.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\Karat_Yapilari\Karat_Yapilari\bin\Debug\Karat_Yapilari.exe
+C:\Users\Monster\source\repos\UDEMY C#\Karat_Yapilari\Karat_Yapilari\bin\Debug\Karat_Yapilari.pdb
+C:\Users\Monster\source\repos\UDEMY C#\Karat_Yapilari\Karat_Yapilari\obj\Debug\Karat_Yapilari.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\UDEMY C#\Karat_Yapilari\Karat_Yapilari\obj\Debug\Karat_Yapilari.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\Karat_Yapilari\Karat_Yapilari\obj\Debug\Karat_Yapilari.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\Karat_Yapilari\Karat_Yapilari\obj\Debug\Karat_Yapilari.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\Karat_Yapilari\Karat_Yapilari\obj\Debug\Karat_Yapilari.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\Karat_Yapilari\Karat_Yapilari\obj\Debug\Karat_Yapilari.exe
+C:\Users\Monster\source\repos\UDEMY C#\Karat_Yapilari\Karat_Yapilari\obj\Debug\Karat_Yapilari.pdb

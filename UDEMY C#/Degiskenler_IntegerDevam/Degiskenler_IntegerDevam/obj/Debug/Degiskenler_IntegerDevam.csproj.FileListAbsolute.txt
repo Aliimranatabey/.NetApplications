@@ -1,0 +1,10 @@
+C:\Users\Monster\source\repos\UDEMY C#\Degiskenler_IntegerDevam\Degiskenler_IntegerDevam\bin\Debug\Degiskenler_IntegerDevam.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\Degiskenler_IntegerDevam\Degiskenler_IntegerDevam\bin\Debug\Degiskenler_IntegerDevam.exe
+C:\Users\Monster\source\repos\UDEMY C#\Degiskenler_IntegerDevam\Degiskenler_IntegerDevam\bin\Debug\Degiskenler_IntegerDevam.pdb
+C:\Users\Monster\source\repos\UDEMY C#\Degiskenler_IntegerDevam\Degiskenler_IntegerDevam\obj\Debug\Degiskenler_IntegerDevam.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\UDEMY C#\Degiskenler_IntegerDevam\Degiskenler_IntegerDevam\obj\Debug\Degiskenler_IntegerDevam.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\Degiskenler_IntegerDevam\Degiskenler_IntegerDevam\obj\Debug\Degiskenler_IntegerDevam.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\Degiskenler_IntegerDevam\Degiskenler_IntegerDevam\obj\Debug\Degiskenler_IntegerDevam.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\Degiskenler_IntegerDevam\Degiskenler_IntegerDevam\obj\Debug\Degiskenler_IntegerDevam.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\Degiskenler_IntegerDevam\Degiskenler_IntegerDevam\obj\Debug\Degiskenler_IntegerDevam.exe
+C:\Users\Monster\source\repos\UDEMY C#\Degiskenler_IntegerDevam\Degiskenler_IntegerDevam\obj\Debug\Degiskenler_IntegerDevam.pdb

@@ -1,0 +1,10 @@
+C:\Users\Monster\source\repos\UDEMY C#\WhileDoWhileDonguleri\WhileDoWhileDonguleri\bin\Debug\WhileDoWhileDonguleri.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\WhileDoWhileDonguleri\WhileDoWhileDonguleri\bin\Debug\WhileDoWhileDonguleri.exe
+C:\Users\Monster\source\repos\UDEMY C#\WhileDoWhileDonguleri\WhileDoWhileDonguleri\bin\Debug\WhileDoWhileDonguleri.pdb
+C:\Users\Monster\source\repos\UDEMY C#\WhileDoWhileDonguleri\WhileDoWhileDonguleri\obj\Debug\WhileDoWhileDonguleri.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\UDEMY C#\WhileDoWhileDonguleri\WhileDoWhileDonguleri\obj\Debug\WhileDoWhileDonguleri.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\WhileDoWhileDonguleri\WhileDoWhileDonguleri\obj\Debug\WhileDoWhileDonguleri.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\WhileDoWhileDonguleri\WhileDoWhileDonguleri\obj\Debug\WhileDoWhileDonguleri.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\WhileDoWhileDonguleri\WhileDoWhileDonguleri\obj\Debug\WhileDoWhileDonguleri.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\WhileDoWhileDonguleri\WhileDoWhileDonguleri\obj\Debug\WhileDoWhileDonguleri.exe
+C:\Users\Monster\source\repos\UDEMY C#\WhileDoWhileDonguleri\WhileDoWhileDonguleri\obj\Debug\WhileDoWhileDonguleri.pdb

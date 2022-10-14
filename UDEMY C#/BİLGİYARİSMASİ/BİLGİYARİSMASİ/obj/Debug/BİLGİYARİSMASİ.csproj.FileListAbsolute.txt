@@ -1,0 +1,10 @@
+C:\Users\Monster\source\repos\UDEMY C#\BİLGİYARİSMASİ\BİLGİYARİSMASİ\bin\Debug\BİLGİYARİSMASİ.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\BİLGİYARİSMASİ\BİLGİYARİSMASİ\bin\Debug\BİLGİYARİSMASİ.exe
+C:\Users\Monster\source\repos\UDEMY C#\BİLGİYARİSMASİ\BİLGİYARİSMASİ\bin\Debug\BİLGİYARİSMASİ.pdb
+C:\Users\Monster\source\repos\UDEMY C#\BİLGİYARİSMASİ\BİLGİYARİSMASİ\obj\Debug\BİLGİYARİSMASİ.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\UDEMY C#\BİLGİYARİSMASİ\BİLGİYARİSMASİ\obj\Debug\BİLGİYARİSMASİ.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\BİLGİYARİSMASİ\BİLGİYARİSMASİ\obj\Debug\BİLGİYARİSMASİ.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\BİLGİYARİSMASİ\BİLGİYARİSMASİ\obj\Debug\BİLGİYARİSMASİ.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\BİLGİYARİSMASİ\BİLGİYARİSMASİ\obj\Debug\BİLGİYARİSMASİ.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\BİLGİYARİSMASİ\BİLGİYARİSMASİ\obj\Debug\BİLGİYARİSMASİ.exe
+C:\Users\Monster\source\repos\UDEMY C#\BİLGİYARİSMASİ\BİLGİYARİSMASİ\obj\Debug\BİLGİYARİSMASİ.pdb

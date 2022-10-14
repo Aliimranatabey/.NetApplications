@@ -1,0 +1,7 @@
+C:\Users\Monster\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.exe.config
+C:\Users\Monster\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.exe
+C:\Users\Monster\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.pdb
+C:\Users\Monster\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.exe
+C:\Users\Monster\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.pdb

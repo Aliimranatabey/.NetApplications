@@ -1,0 +1,10 @@
+C:\Users\Monster\source\repos\UDEMY C#\Switch_Case_ÖdevSoru\Switch_Case_ÖdevSoru\bin\Debug\Switch_Case_ÖdevSoru.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\Switch_Case_ÖdevSoru\Switch_Case_ÖdevSoru\bin\Debug\Switch_Case_ÖdevSoru.exe
+C:\Users\Monster\source\repos\UDEMY C#\Switch_Case_ÖdevSoru\Switch_Case_ÖdevSoru\bin\Debug\Switch_Case_ÖdevSoru.pdb
+C:\Users\Monster\source\repos\UDEMY C#\Switch_Case_ÖdevSoru\Switch_Case_ÖdevSoru\obj\Debug\Switch_Case_ÖdevSoru.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\UDEMY C#\Switch_Case_ÖdevSoru\Switch_Case_ÖdevSoru\obj\Debug\Switch_Case_ÖdevSoru.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\Switch_Case_ÖdevSoru\Switch_Case_ÖdevSoru\obj\Debug\Switch_Case_ÖdevSoru.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\Switch_Case_ÖdevSoru\Switch_Case_ÖdevSoru\obj\Debug\Switch_Case_ÖdevSoru.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\Switch_Case_ÖdevSoru\Switch_Case_ÖdevSoru\obj\Debug\Switch_Case_ÖdevSoru.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\Switch_Case_ÖdevSoru\Switch_Case_ÖdevSoru\obj\Debug\Switch_Case_ÖdevSoru.exe
+C:\Users\Monster\source\repos\UDEMY C#\Switch_Case_ÖdevSoru\Switch_Case_ÖdevSoru\obj\Debug\Switch_Case_ÖdevSoru.pdb

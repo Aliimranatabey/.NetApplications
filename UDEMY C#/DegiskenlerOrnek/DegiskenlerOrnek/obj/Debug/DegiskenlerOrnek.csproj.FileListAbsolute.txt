@@ -1,0 +1,10 @@
+C:\Users\Monster\source\repos\UDEMY C#\DegiskenlerOrnek\DegiskenlerOrnek\bin\Debug\DegiskenlerOrnek.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\DegiskenlerOrnek\DegiskenlerOrnek\bin\Debug\DegiskenlerOrnek.exe
+C:\Users\Monster\source\repos\UDEMY C#\DegiskenlerOrnek\DegiskenlerOrnek\bin\Debug\DegiskenlerOrnek.pdb
+C:\Users\Monster\source\repos\UDEMY C#\DegiskenlerOrnek\DegiskenlerOrnek\obj\Debug\DegiskenlerOrnek.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\UDEMY C#\DegiskenlerOrnek\DegiskenlerOrnek\obj\Debug\DegiskenlerOrnek.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\DegiskenlerOrnek\DegiskenlerOrnek\obj\Debug\DegiskenlerOrnek.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\DegiskenlerOrnek\DegiskenlerOrnek\obj\Debug\DegiskenlerOrnek.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\DegiskenlerOrnek\DegiskenlerOrnek\obj\Debug\DegiskenlerOrnek.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\DegiskenlerOrnek\DegiskenlerOrnek\obj\Debug\DegiskenlerOrnek.exe
+C:\Users\Monster\source\repos\UDEMY C#\DegiskenlerOrnek\DegiskenlerOrnek\obj\Debug\DegiskenlerOrnek.pdb

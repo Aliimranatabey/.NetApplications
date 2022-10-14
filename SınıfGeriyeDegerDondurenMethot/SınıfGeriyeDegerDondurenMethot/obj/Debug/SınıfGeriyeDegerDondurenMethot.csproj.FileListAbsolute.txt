@@ -1,0 +1,7 @@
+C:\Users\Monster\source\repos\SınıfGeriyeDegerDondurenMethot\SınıfGeriyeDegerDondurenMethot\bin\Debug\SınıfGeriyeDegerDondurenMethot.exe.config
+C:\Users\Monster\source\repos\SınıfGeriyeDegerDondurenMethot\SınıfGeriyeDegerDondurenMethot\bin\Debug\SınıfGeriyeDegerDondurenMethot.exe
+C:\Users\Monster\source\repos\SınıfGeriyeDegerDondurenMethot\SınıfGeriyeDegerDondurenMethot\bin\Debug\SınıfGeriyeDegerDondurenMethot.pdb
+C:\Users\Monster\source\repos\SınıfGeriyeDegerDondurenMethot\SınıfGeriyeDegerDondurenMethot\obj\Debug\SınıfGeriyeDegerDondurenMethot.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\SınıfGeriyeDegerDondurenMethot\SınıfGeriyeDegerDondurenMethot\obj\Debug\SınıfGeriyeDegerDondurenMethot.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\SınıfGeriyeDegerDondurenMethot\SınıfGeriyeDegerDondurenMethot\obj\Debug\SınıfGeriyeDegerDondurenMethot.exe
+C:\Users\Monster\source\repos\SınıfGeriyeDegerDondurenMethot\SınıfGeriyeDegerDondurenMethot\obj\Debug\SınıfGeriyeDegerDondurenMethot.pdb

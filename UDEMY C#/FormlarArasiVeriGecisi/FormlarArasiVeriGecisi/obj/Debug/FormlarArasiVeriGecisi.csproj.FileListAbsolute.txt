@@ -1,0 +1,11 @@
+C:\Users\Monster\source\repos\UDEMY C#\FormlarArasiVeriGecisi\FormlarArasiVeriGecisi\bin\Debug\FormlarArasiVeriGecisi.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\FormlarArasiVeriGecisi\FormlarArasiVeriGecisi\bin\Debug\FormlarArasiVeriGecisi.exe
+C:\Users\Monster\source\repos\UDEMY C#\FormlarArasiVeriGecisi\FormlarArasiVeriGecisi\bin\Debug\FormlarArasiVeriGecisi.pdb
+C:\Users\Monster\source\repos\UDEMY C#\FormlarArasiVeriGecisi\FormlarArasiVeriGecisi\obj\Debug\FormlarArasiVeriGecisi.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\UDEMY C#\FormlarArasiVeriGecisi\FormlarArasiVeriGecisi\obj\Debug\FormlarArasiVeriGecisi.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\FormlarArasiVeriGecisi\FormlarArasiVeriGecisi\obj\Debug\FormlarArasiVeriGecisi.Form2.resources
+C:\Users\Monster\source\repos\UDEMY C#\FormlarArasiVeriGecisi\FormlarArasiVeriGecisi\obj\Debug\FormlarArasiVeriGecisi.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\FormlarArasiVeriGecisi\FormlarArasiVeriGecisi\obj\Debug\FormlarArasiVeriGecisi.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\FormlarArasiVeriGecisi\FormlarArasiVeriGecisi\obj\Debug\FormlarArasiVeriGecisi.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\FormlarArasiVeriGecisi\FormlarArasiVeriGecisi\obj\Debug\FormlarArasiVeriGecisi.exe
+C:\Users\Monster\source\repos\UDEMY C#\FormlarArasiVeriGecisi\FormlarArasiVeriGecisi\obj\Debug\FormlarArasiVeriGecisi.pdb

@@ -1,0 +1,10 @@
+C:\Users\Monster\source\repos\Ödev3Uygulama1\Ödev3Uygulama1\bin\Debug\netcoreapp2.1\Ödev3Uygulama1.deps.json
+C:\Users\Monster\source\repos\Ödev3Uygulama1\Ödev3Uygulama1\bin\Debug\netcoreapp2.1\Ödev3Uygulama1.runtimeconfig.json
+C:\Users\Monster\source\repos\Ödev3Uygulama1\Ödev3Uygulama1\bin\Debug\netcoreapp2.1\Ödev3Uygulama1.runtimeconfig.dev.json
+C:\Users\Monster\source\repos\Ödev3Uygulama1\Ödev3Uygulama1\bin\Debug\netcoreapp2.1\Ödev3Uygulama1.dll
+C:\Users\Monster\source\repos\Ödev3Uygulama1\Ödev3Uygulama1\bin\Debug\netcoreapp2.1\Ödev3Uygulama1.pdb
+C:\Users\Monster\source\repos\Ödev3Uygulama1\Ödev3Uygulama1\obj\Debug\netcoreapp2.1\Ödev3Uygulama1.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\Ödev3Uygulama1\Ödev3Uygulama1\obj\Debug\netcoreapp2.1\Ödev3Uygulama1.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\Ödev3Uygulama1\Ödev3Uygulama1\obj\Debug\netcoreapp2.1\Ödev3Uygulama1.AssemblyInfo.cs
+C:\Users\Monster\source\repos\Ödev3Uygulama1\Ödev3Uygulama1\obj\Debug\netcoreapp2.1\Ödev3Uygulama1.dll
+C:\Users\Monster\source\repos\Ödev3Uygulama1\Ödev3Uygulama1\obj\Debug\netcoreapp2.1\Ödev3Uygulama1.pdb

@@ -1,0 +1,10 @@
+C:\Users\Monster\source\repos\UDEMY C#\InternetFılmProjesı\InternetFılmProjesı\bin\Debug\InternetFılmProjesı.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\InternetFılmProjesı\InternetFılmProjesı\bin\Debug\InternetFılmProjesı.exe
+C:\Users\Monster\source\repos\UDEMY C#\InternetFılmProjesı\InternetFılmProjesı\bin\Debug\InternetFılmProjesı.pdb
+C:\Users\Monster\source\repos\UDEMY C#\InternetFılmProjesı\InternetFılmProjesı\obj\Debug\InternetFılmProjesı.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\UDEMY C#\InternetFılmProjesı\InternetFılmProjesı\obj\Debug\InternetFılmProjesı.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\InternetFılmProjesı\InternetFılmProjesı\obj\Debug\InternetFılmProjesı.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\InternetFılmProjesı\InternetFılmProjesı\obj\Debug\InternetFılmProjesı.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\InternetFılmProjesı\InternetFılmProjesı\obj\Debug\InternetFılmProjesı.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\InternetFılmProjesı\InternetFılmProjesı\obj\Debug\InternetFılmProjesı.exe
+C:\Users\Monster\source\repos\UDEMY C#\InternetFılmProjesı\InternetFılmProjesı\obj\Debug\InternetFılmProjesı.pdb

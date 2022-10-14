@@ -1,0 +1,7 @@
+C:\Users\Monster\source\repos\YapıcıConstructurMethotlar2\YapıcıConstructurMethotlar2\bin\Debug\YapıcıConstructurMethotlar2.exe.config
+C:\Users\Monster\source\repos\YapıcıConstructurMethotlar2\YapıcıConstructurMethotlar2\bin\Debug\YapıcıConstructurMethotlar2.exe
+C:\Users\Monster\source\repos\YapıcıConstructurMethotlar2\YapıcıConstructurMethotlar2\bin\Debug\YapıcıConstructurMethotlar2.pdb
+C:\Users\Monster\source\repos\YapıcıConstructurMethotlar2\YapıcıConstructurMethotlar2\obj\Debug\YapıcıConstructurMethotlar2.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\YapıcıConstructurMethotlar2\YapıcıConstructurMethotlar2\obj\Debug\YapıcıConstructurMethotlar2.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\YapıcıConstructurMethotlar2\YapıcıConstructurMethotlar2\obj\Debug\YapıcıConstructurMethotlar2.exe
+C:\Users\Monster\source\repos\YapıcıConstructurMethotlar2\YapıcıConstructurMethotlar2\obj\Debug\YapıcıConstructurMethotlar2.pdb

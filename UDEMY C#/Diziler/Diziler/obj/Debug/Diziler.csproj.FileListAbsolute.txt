@@ -1,0 +1,10 @@
+C:\Users\Monster\source\repos\UDEMY C#\Diziler\Diziler\bin\Debug\Diziler.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\Diziler\Diziler\bin\Debug\Diziler.exe
+C:\Users\Monster\source\repos\UDEMY C#\Diziler\Diziler\bin\Debug\Diziler.pdb
+C:\Users\Monster\source\repos\UDEMY C#\Diziler\Diziler\obj\Debug\Diziler.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\UDEMY C#\Diziler\Diziler\obj\Debug\Diziler.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\Diziler\Diziler\obj\Debug\Diziler.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\Diziler\Diziler\obj\Debug\Diziler.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\Diziler\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\Diziler\Diziler\obj\Debug\Diziler.exe
+C:\Users\Monster\source\repos\UDEMY C#\Diziler\Diziler\obj\Debug\Diziler.pdb

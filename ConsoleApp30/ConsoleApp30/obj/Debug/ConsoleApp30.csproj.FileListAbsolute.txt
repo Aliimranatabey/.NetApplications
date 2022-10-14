@@ -1,0 +1,6 @@
+C:\Users\Monster\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.exe.config
+C:\Users\Monster\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.exe
+C:\Users\Monster\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.pdb
+C:\Users\Monster\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.exe
+C:\Users\Monster\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.pdb

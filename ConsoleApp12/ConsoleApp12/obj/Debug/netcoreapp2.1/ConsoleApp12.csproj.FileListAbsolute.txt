@@ -1,0 +1,11 @@
+C:\Users\Monster\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp2.1\ConsoleApp12.deps.json
+C:\Users\Monster\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp2.1\ConsoleApp12.runtimeconfig.json
+C:\Users\Monster\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp2.1\ConsoleApp12.runtimeconfig.dev.json
+C:\Users\Monster\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp2.1\ConsoleApp12.dll
+C:\Users\Monster\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp2.1\ConsoleApp12.pdb
+C:\Users\Monster\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp2.1\ConsoleApp12.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp2.1\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp2.1\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp2.1\ConsoleApp12.AssemblyInfo.cs
+C:\Users\Monster\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp2.1\ConsoleApp12.dll
+C:\Users\Monster\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp2.1\ConsoleApp12.pdb

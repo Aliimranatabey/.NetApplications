@@ -1,0 +1,9 @@
+C:\Users\Monster\source\repos\UDEMY C#\Metin_Belgesi_Okutma\Metin_Belgesi_Okutma\bin\Debug\Metin_Belgesi_Okutma.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\Metin_Belgesi_Okutma\Metin_Belgesi_Okutma\bin\Debug\Metin_Belgesi_Okutma.exe
+C:\Users\Monster\source\repos\UDEMY C#\Metin_Belgesi_Okutma\Metin_Belgesi_Okutma\bin\Debug\Metin_Belgesi_Okutma.pdb
+C:\Users\Monster\source\repos\UDEMY C#\Metin_Belgesi_Okutma\Metin_Belgesi_Okutma\obj\Debug\Metin_Belgesi_Okutma.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\Metin_Belgesi_Okutma\Metin_Belgesi_Okutma\obj\Debug\Metin_Belgesi_Okutma.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\Metin_Belgesi_Okutma\Metin_Belgesi_Okutma\obj\Debug\Metin_Belgesi_Okutma.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\Metin_Belgesi_Okutma\Metin_Belgesi_Okutma\obj\Debug\Metin_Belgesi_Okutma.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\Metin_Belgesi_Okutma\Metin_Belgesi_Okutma\obj\Debug\Metin_Belgesi_Okutma.exe
+C:\Users\Monster\source\repos\UDEMY C#\Metin_Belgesi_Okutma\Metin_Belgesi_Okutma\obj\Debug\Metin_Belgesi_Okutma.pdb

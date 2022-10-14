@@ -1,0 +1,10 @@
+C:\Users\Monster\source\repos\UDEMY C#\CaptchaKullanımı\CaptchaKullanımı\bin\Debug\CaptchaKullanımı.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\CaptchaKullanımı\CaptchaKullanımı\bin\Debug\CaptchaKullanımı.exe
+C:\Users\Monster\source\repos\UDEMY C#\CaptchaKullanımı\CaptchaKullanımı\bin\Debug\CaptchaKullanımı.pdb
+C:\Users\Monster\source\repos\UDEMY C#\CaptchaKullanımı\CaptchaKullanımı\obj\Debug\CaptchaKullanımı.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\UDEMY C#\CaptchaKullanımı\CaptchaKullanımı\obj\Debug\CaptchaKullanımı.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\CaptchaKullanımı\CaptchaKullanımı\obj\Debug\CaptchaKullanımı.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\CaptchaKullanımı\CaptchaKullanımı\obj\Debug\CaptchaKullanımı.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\CaptchaKullanımı\CaptchaKullanımı\obj\Debug\CaptchaKullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\CaptchaKullanımı\CaptchaKullanımı\obj\Debug\CaptchaKullanımı.exe
+C:\Users\Monster\source\repos\UDEMY C#\CaptchaKullanımı\CaptchaKullanımı\obj\Debug\CaptchaKullanımı.pdb

@@ -1,0 +1,9 @@
+C:\Users\Monster\source\repos\UDEMY C#\SayisalLotoUygulaması\SayisalLotoUygulaması\bin\Debug\SayisalLotoUygulaması.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\SayisalLotoUygulaması\SayisalLotoUygulaması\bin\Debug\SayisalLotoUygulaması.exe
+C:\Users\Monster\source\repos\UDEMY C#\SayisalLotoUygulaması\SayisalLotoUygulaması\bin\Debug\SayisalLotoUygulaması.pdb
+C:\Users\Monster\source\repos\UDEMY C#\SayisalLotoUygulaması\SayisalLotoUygulaması\obj\Debug\SayisalLotoUygulaması.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\SayisalLotoUygulaması\SayisalLotoUygulaması\obj\Debug\SayisalLotoUygulaması.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\SayisalLotoUygulaması\SayisalLotoUygulaması\obj\Debug\SayisalLotoUygulaması.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\SayisalLotoUygulaması\SayisalLotoUygulaması\obj\Debug\SayisalLotoUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\SayisalLotoUygulaması\SayisalLotoUygulaması\obj\Debug\SayisalLotoUygulaması.exe
+C:\Users\Monster\source\repos\UDEMY C#\SayisalLotoUygulaması\SayisalLotoUygulaması\obj\Debug\SayisalLotoUygulaması.pdb

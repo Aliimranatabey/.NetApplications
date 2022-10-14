@@ -1,0 +1,9 @@
+C:\Users\Monster\source\repos\UDEMY C#\Switch_Case_Yapilari\Switch_Case_Yapilari\bin\Debug\Switch_Case_Yapilari.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\Switch_Case_Yapilari\Switch_Case_Yapilari\bin\Debug\Switch_Case_Yapilari.exe
+C:\Users\Monster\source\repos\UDEMY C#\Switch_Case_Yapilari\Switch_Case_Yapilari\bin\Debug\Switch_Case_Yapilari.pdb
+C:\Users\Monster\source\repos\UDEMY C#\Switch_Case_Yapilari\Switch_Case_Yapilari\obj\Debug\Switch_Case_Yapilari.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\Switch_Case_Yapilari\Switch_Case_Yapilari\obj\Debug\Switch_Case_Yapilari.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\Switch_Case_Yapilari\Switch_Case_Yapilari\obj\Debug\Switch_Case_Yapilari.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\Switch_Case_Yapilari\Switch_Case_Yapilari\obj\Debug\Switch_Case_Yapilari.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\Switch_Case_Yapilari\Switch_Case_Yapilari\obj\Debug\Switch_Case_Yapilari.exe
+C:\Users\Monster\source\repos\UDEMY C#\Switch_Case_Yapilari\Switch_Case_Yapilari\obj\Debug\Switch_Case_Yapilari.pdb

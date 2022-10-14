@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch_Case_ÖdevSoru", "Switch_Case_ÖdevSoru\Switch_Case_ÖdevSoru.csproj", "{74E5D6E9-B4CF-41D3-A231-D3B6EFC2FD9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74E5D6E9-B4CF-41D3-A231-D3B6EFC2FD9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E5D6E9-B4CF-41D3-A231-D3B6EFC2FD9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E5D6E9-B4CF-41D3-A231-D3B6EFC2FD9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E5D6E9-B4CF-41D3-A231-D3B6EFC2FD9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDA2AC07-8CB7-4C31-8F51-9A17D72D89C4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\Monster\source\repos\UDEMY C#\MatematikFonksiyonları\MatematikFonksiyonları\bin\Debug\MatematikFonksiyonları.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\MatematikFonksiyonları\MatematikFonksiyonları\bin\Debug\MatematikFonksiyonları.exe
+C:\Users\Monster\source\repos\UDEMY C#\MatematikFonksiyonları\MatematikFonksiyonları\bin\Debug\MatematikFonksiyonları.pdb
+C:\Users\Monster\source\repos\UDEMY C#\MatematikFonksiyonları\MatematikFonksiyonları\obj\Debug\MatematikFonksiyonları.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\MatematikFonksiyonları\MatematikFonksiyonları\obj\Debug\MatematikFonksiyonları.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\MatematikFonksiyonları\MatematikFonksiyonları\obj\Debug\MatematikFonksiyonları.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\MatematikFonksiyonları\MatematikFonksiyonları\obj\Debug\MatematikFonksiyonları.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\MatematikFonksiyonları\MatematikFonksiyonları\obj\Debug\MatematikFonksiyonları.exe
+C:\Users\Monster\source\repos\UDEMY C#\MatematikFonksiyonları\MatematikFonksiyonları\obj\Debug\MatematikFonksiyonları.pdb

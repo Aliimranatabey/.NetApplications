@@ -1,0 +1,10 @@
+C:\Users\Monster\source\repos\UDEMY C#\FaktorıyelSorusu\FaktorıyelSorusu\bin\Debug\FaktorıyelSorusu.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\FaktorıyelSorusu\FaktorıyelSorusu\bin\Debug\FaktorıyelSorusu.exe
+C:\Users\Monster\source\repos\UDEMY C#\FaktorıyelSorusu\FaktorıyelSorusu\bin\Debug\FaktorıyelSorusu.pdb
+C:\Users\Monster\source\repos\UDEMY C#\FaktorıyelSorusu\FaktorıyelSorusu\obj\Debug\FaktorıyelSorusu.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\UDEMY C#\FaktorıyelSorusu\FaktorıyelSorusu\obj\Debug\FaktorıyelSorusu.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\FaktorıyelSorusu\FaktorıyelSorusu\obj\Debug\FaktorıyelSorusu.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\FaktorıyelSorusu\FaktorıyelSorusu\obj\Debug\FaktorıyelSorusu.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\FaktorıyelSorusu\FaktorıyelSorusu\obj\Debug\FaktorıyelSorusu.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\FaktorıyelSorusu\FaktorıyelSorusu\obj\Debug\FaktorıyelSorusu.exe
+C:\Users\Monster\source\repos\UDEMY C#\FaktorıyelSorusu\FaktorıyelSorusu\obj\Debug\FaktorıyelSorusu.pdb

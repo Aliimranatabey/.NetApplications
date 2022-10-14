@@ -1,0 +1,11 @@
+C:\Users\Monster\source\repos\Ödev6\Ödev6\bin\Debug\netcoreapp2.1\Ödev6.deps.json
+C:\Users\Monster\source\repos\Ödev6\Ödev6\bin\Debug\netcoreapp2.1\Ödev6.runtimeconfig.json
+C:\Users\Monster\source\repos\Ödev6\Ödev6\bin\Debug\netcoreapp2.1\Ödev6.runtimeconfig.dev.json
+C:\Users\Monster\source\repos\Ödev6\Ödev6\bin\Debug\netcoreapp2.1\Ödev6.dll
+C:\Users\Monster\source\repos\Ödev6\Ödev6\bin\Debug\netcoreapp2.1\Ödev6.pdb
+C:\Users\Monster\source\repos\Ödev6\Ödev6\obj\Debug\netcoreapp2.1\Ödev6.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\Ödev6\Ödev6\obj\Debug\netcoreapp2.1\Ödev6.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\Ödev6\Ödev6\obj\Debug\netcoreapp2.1\Ödev6.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\Ödev6\Ödev6\obj\Debug\netcoreapp2.1\Ödev6.AssemblyInfo.cs
+C:\Users\Monster\source\repos\Ödev6\Ödev6\obj\Debug\netcoreapp2.1\Ödev6.dll
+C:\Users\Monster\source\repos\Ödev6\Ödev6\obj\Debug\netcoreapp2.1\Ödev6.pdb

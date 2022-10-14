@@ -1,0 +1,7 @@
+C:\Users\Monster\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.exe.config
+C:\Users\Monster\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.exe
+C:\Users\Monster\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.pdb
+C:\Users\Monster\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.exe
+C:\Users\Monster\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.pdb

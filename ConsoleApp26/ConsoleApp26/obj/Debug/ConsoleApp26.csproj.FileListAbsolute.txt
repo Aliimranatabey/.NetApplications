@@ -1,0 +1,6 @@
+C:\Users\Monster\source\repos\ConsoleApp26\ConsoleApp26\bin\Debug\ConsoleApp26.exe.config
+C:\Users\Monster\source\repos\ConsoleApp26\ConsoleApp26\bin\Debug\ConsoleApp26.exe
+C:\Users\Monster\source\repos\ConsoleApp26\ConsoleApp26\bin\Debug\ConsoleApp26.pdb
+C:\Users\Monster\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.exe
+C:\Users\Monster\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.pdb

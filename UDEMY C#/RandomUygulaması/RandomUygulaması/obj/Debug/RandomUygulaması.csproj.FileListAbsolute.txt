@@ -1,0 +1,10 @@
+C:\Users\Monster\source\repos\UDEMY C#\RandomUygulaması\RandomUygulaması\bin\Debug\RandomUygulaması.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\RandomUygulaması\RandomUygulaması\bin\Debug\RandomUygulaması.exe
+C:\Users\Monster\source\repos\UDEMY C#\RandomUygulaması\RandomUygulaması\bin\Debug\RandomUygulaması.pdb
+C:\Users\Monster\source\repos\UDEMY C#\RandomUygulaması\RandomUygulaması\obj\Debug\RandomUygulaması.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\UDEMY C#\RandomUygulaması\RandomUygulaması\obj\Debug\RandomUygulaması.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\RandomUygulaması\RandomUygulaması\obj\Debug\RandomUygulaması.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\RandomUygulaması\RandomUygulaması\obj\Debug\RandomUygulaması.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\RandomUygulaması\RandomUygulaması\obj\Debug\RandomUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\RandomUygulaması\RandomUygulaması\obj\Debug\RandomUygulaması.exe
+C:\Users\Monster\source\repos\UDEMY C#\RandomUygulaması\RandomUygulaması\obj\Debug\RandomUygulaması.pdb

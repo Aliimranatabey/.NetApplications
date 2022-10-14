@@ -1,0 +1,10 @@
+C:\Users\Monster\source\repos\UDEMY C#\MethotlaraGiris\MethotlaraGiris\bin\Debug\MethotlaraGiris.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\MethotlaraGiris\MethotlaraGiris\bin\Debug\MethotlaraGiris.exe
+C:\Users\Monster\source\repos\UDEMY C#\MethotlaraGiris\MethotlaraGiris\bin\Debug\MethotlaraGiris.pdb
+C:\Users\Monster\source\repos\UDEMY C#\MethotlaraGiris\MethotlaraGiris\obj\Debug\MethotlaraGiris.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\UDEMY C#\MethotlaraGiris\MethotlaraGiris\obj\Debug\MethotlaraGiris.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\MethotlaraGiris\MethotlaraGiris\obj\Debug\MethotlaraGiris.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\MethotlaraGiris\MethotlaraGiris\obj\Debug\MethotlaraGiris.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\MethotlaraGiris\MethotlaraGiris\obj\Debug\MethotlaraGiris.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\MethotlaraGiris\MethotlaraGiris\obj\Debug\MethotlaraGiris.exe
+C:\Users\Monster\source\repos\UDEMY C#\MethotlaraGiris\MethotlaraGiris\obj\Debug\MethotlaraGiris.pdb

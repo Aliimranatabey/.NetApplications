@@ -1,0 +1,11 @@
+C:\Users\Monster\source\repos\Vize\Vize\obj\Debug\netcoreapp2.1\Vize.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\Vize\Vize\obj\Debug\netcoreapp2.1\Vize.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\Vize\Vize\obj\Debug\netcoreapp2.1\Vize.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\Vize\Vize\obj\Debug\netcoreapp2.1\Vize.AssemblyInfo.cs
+C:\Users\Monster\source\repos\Vize\Vize\bin\Debug\netcoreapp2.1\Vize.deps.json
+C:\Users\Monster\source\repos\Vize\Vize\bin\Debug\netcoreapp2.1\Vize.runtimeconfig.json
+C:\Users\Monster\source\repos\Vize\Vize\bin\Debug\netcoreapp2.1\Vize.runtimeconfig.dev.json
+C:\Users\Monster\source\repos\Vize\Vize\bin\Debug\netcoreapp2.1\Vize.dll
+C:\Users\Monster\source\repos\Vize\Vize\bin\Debug\netcoreapp2.1\Vize.pdb
+C:\Users\Monster\source\repos\Vize\Vize\obj\Debug\netcoreapp2.1\Vize.dll
+C:\Users\Monster\source\repos\Vize\Vize\obj\Debug\netcoreapp2.1\Vize.pdb

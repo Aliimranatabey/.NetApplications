@@ -1,0 +1,9 @@
+C:\Users\Monster\source\repos\UDEMY C#\Context_MenuStript\Context_MenuStript\bin\Debug\Context_MenuStript.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\Context_MenuStript\Context_MenuStript\bin\Debug\Context_MenuStript.exe
+C:\Users\Monster\source\repos\UDEMY C#\Context_MenuStript\Context_MenuStript\bin\Debug\Context_MenuStript.pdb
+C:\Users\Monster\source\repos\UDEMY C#\Context_MenuStript\Context_MenuStript\obj\Debug\Context_MenuStript.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\Context_MenuStript\Context_MenuStript\obj\Debug\Context_MenuStript.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\Context_MenuStript\Context_MenuStript\obj\Debug\Context_MenuStript.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\Context_MenuStript\Context_MenuStript\obj\Debug\Context_MenuStript.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\Context_MenuStript\Context_MenuStript\obj\Debug\Context_MenuStript.exe
+C:\Users\Monster\source\repos\UDEMY C#\Context_MenuStript\Context_MenuStript\obj\Debug\Context_MenuStript.pdb

@@ -1,0 +1,10 @@
+C:\Users\Monster\source\repos\UDEMY C#\Udemy_StringDegisken\Udemy_StringDegisken\bin\Debug\Udemy_StringDegisken.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\Udemy_StringDegisken\Udemy_StringDegisken\bin\Debug\Udemy_StringDegisken.exe
+C:\Users\Monster\source\repos\UDEMY C#\Udemy_StringDegisken\Udemy_StringDegisken\bin\Debug\Udemy_StringDegisken.pdb
+C:\Users\Monster\source\repos\UDEMY C#\Udemy_StringDegisken\Udemy_StringDegisken\obj\Debug\Udemy_StringDegisken.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\UDEMY C#\Udemy_StringDegisken\Udemy_StringDegisken\obj\Debug\Udemy_StringDegisken.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\Udemy_StringDegisken\Udemy_StringDegisken\obj\Debug\Udemy_StringDegisken.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\Udemy_StringDegisken\Udemy_StringDegisken\obj\Debug\Udemy_StringDegisken.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\Udemy_StringDegisken\Udemy_StringDegisken\obj\Debug\Udemy_StringDegisken.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\Udemy_StringDegisken\Udemy_StringDegisken\obj\Debug\Udemy_StringDegisken.exe
+C:\Users\Monster\source\repos\UDEMY C#\Udemy_StringDegisken\Udemy_StringDegisken\obj\Debug\Udemy_StringDegisken.pdb

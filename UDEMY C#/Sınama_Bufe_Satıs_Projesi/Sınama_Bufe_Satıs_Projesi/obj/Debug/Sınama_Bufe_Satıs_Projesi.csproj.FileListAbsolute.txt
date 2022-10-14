@@ -1,0 +1,10 @@
+C:\Users\Monster\source\repos\UDEMY C#\Sınama_Bufe_Satıs_Projesi\Sınama_Bufe_Satıs_Projesi\bin\Debug\Sınama_Bufe_Satıs_Projesi.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\Sınama_Bufe_Satıs_Projesi\Sınama_Bufe_Satıs_Projesi\bin\Debug\Sınama_Bufe_Satıs_Projesi.exe
+C:\Users\Monster\source\repos\UDEMY C#\Sınama_Bufe_Satıs_Projesi\Sınama_Bufe_Satıs_Projesi\bin\Debug\Sınama_Bufe_Satıs_Projesi.pdb
+C:\Users\Monster\source\repos\UDEMY C#\Sınama_Bufe_Satıs_Projesi\Sınama_Bufe_Satıs_Projesi\obj\Debug\Sınama_Bufe_Satıs_Projesi.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\UDEMY C#\Sınama_Bufe_Satıs_Projesi\Sınama_Bufe_Satıs_Projesi\obj\Debug\Sınama_Bufe_Satıs_Projesi.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\Sınama_Bufe_Satıs_Projesi\Sınama_Bufe_Satıs_Projesi\obj\Debug\Sınama_Bufe_Satıs_Projesi.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\Sınama_Bufe_Satıs_Projesi\Sınama_Bufe_Satıs_Projesi\obj\Debug\Sınama_Bufe_Satıs_Projesi.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\Sınama_Bufe_Satıs_Projesi\Sınama_Bufe_Satıs_Projesi\obj\Debug\Sınama_Bufe_Satıs_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\Sınama_Bufe_Satıs_Projesi\Sınama_Bufe_Satıs_Projesi\obj\Debug\Sınama_Bufe_Satıs_Projesi.exe
+C:\Users\Monster\source\repos\UDEMY C#\Sınama_Bufe_Satıs_Projesi\Sınama_Bufe_Satıs_Projesi\obj\Debug\Sınama_Bufe_Satıs_Projesi.pdb

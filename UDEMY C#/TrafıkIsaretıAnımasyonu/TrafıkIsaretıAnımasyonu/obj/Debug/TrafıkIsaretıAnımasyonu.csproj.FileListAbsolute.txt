@@ -1,0 +1,10 @@
+C:\Users\Monster\source\repos\UDEMY C#\TrafıkIsaretıAnımasyonu\TrafıkIsaretıAnımasyonu\bin\Debug\TrafıkIsaretıAnımasyonu.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\TrafıkIsaretıAnımasyonu\TrafıkIsaretıAnımasyonu\bin\Debug\TrafıkIsaretıAnımasyonu.exe
+C:\Users\Monster\source\repos\UDEMY C#\TrafıkIsaretıAnımasyonu\TrafıkIsaretıAnımasyonu\bin\Debug\TrafıkIsaretıAnımasyonu.pdb
+C:\Users\Monster\source\repos\UDEMY C#\TrafıkIsaretıAnımasyonu\TrafıkIsaretıAnımasyonu\obj\Debug\TrafıkIsaretıAnımasyonu.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\UDEMY C#\TrafıkIsaretıAnımasyonu\TrafıkIsaretıAnımasyonu\obj\Debug\TrafıkIsaretıAnımasyonu.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\TrafıkIsaretıAnımasyonu\TrafıkIsaretıAnımasyonu\obj\Debug\TrafıkIsaretıAnımasyonu.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\TrafıkIsaretıAnımasyonu\TrafıkIsaretıAnımasyonu\obj\Debug\TrafıkIsaretıAnımasyonu.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\TrafıkIsaretıAnımasyonu\TrafıkIsaretıAnımasyonu\obj\Debug\TrafıkIsaretıAnımasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\TrafıkIsaretıAnımasyonu\TrafıkIsaretıAnımasyonu\obj\Debug\TrafıkIsaretıAnımasyonu.exe
+C:\Users\Monster\source\repos\UDEMY C#\TrafıkIsaretıAnımasyonu\TrafıkIsaretıAnımasyonu\obj\Debug\TrafıkIsaretıAnımasyonu.pdb

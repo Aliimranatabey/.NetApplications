@@ -1,0 +1,9 @@
+C:\Users\Monster\source\repos\UDEMY C#\MethotKlavyedenGirilen2sayininToplami\MethotKlavyedenGirilen2sayininToplami\bin\Debug\MethotKlavyedenGirilen2sayininToplami.exe.config
+C:\Users\Monster\source\repos\UDEMY C#\MethotKlavyedenGirilen2sayininToplami\MethotKlavyedenGirilen2sayininToplami\bin\Debug\MethotKlavyedenGirilen2sayininToplami.exe
+C:\Users\Monster\source\repos\UDEMY C#\MethotKlavyedenGirilen2sayininToplami\MethotKlavyedenGirilen2sayininToplami\bin\Debug\MethotKlavyedenGirilen2sayininToplami.pdb
+C:\Users\Monster\source\repos\UDEMY C#\MethotKlavyedenGirilen2sayininToplami\MethotKlavyedenGirilen2sayininToplami\obj\Debug\MethotKlavyedenGirilen2sayininToplami.Form1.resources
+C:\Users\Monster\source\repos\UDEMY C#\MethotKlavyedenGirilen2sayininToplami\MethotKlavyedenGirilen2sayininToplami\obj\Debug\MethotKlavyedenGirilen2sayininToplami.Properties.Resources.resources
+C:\Users\Monster\source\repos\UDEMY C#\MethotKlavyedenGirilen2sayininToplami\MethotKlavyedenGirilen2sayininToplami\obj\Debug\MethotKlavyedenGirilen2sayininToplami.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UDEMY C#\MethotKlavyedenGirilen2sayininToplami\MethotKlavyedenGirilen2sayininToplami\obj\Debug\MethotKlavyedenGirilen2sayininToplami.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UDEMY C#\MethotKlavyedenGirilen2sayininToplami\MethotKlavyedenGirilen2sayininToplami\obj\Debug\MethotKlavyedenGirilen2sayininToplami.exe
+C:\Users\Monster\source\repos\UDEMY C#\MethotKlavyedenGirilen2sayininToplami\MethotKlavyedenGirilen2sayininToplami\obj\Debug\MethotKlavyedenGirilen2sayininToplami.pdb
